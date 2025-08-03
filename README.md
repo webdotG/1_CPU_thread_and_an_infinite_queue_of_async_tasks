@@ -72,6 +72,6 @@ MIT License - see [LICENSE](./LICENSE) file
 **⭐ If you like this project, please give it a star!**  
 **⭐ Если проект понравился, поставьте звездочку!**
 
-Made with ❤️ by [Kirill Grant](https://github.com/kirill-grant)
+Made with ❤️ by [Kirill Grant](https://t.me/KirillGrant)
 
 </div>

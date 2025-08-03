@@ -31,12 +31,6 @@ Advanced async task queue with intelligent dependency resolution and concurrency
 - **Потоковая обработка** - поддержка async итераторов
 - **Управление ресурсами** - предотвращение конфликтов
 
-## 📋 Installation
-
-```bash
-npm install task-queue-executor
-```
-
 ## 🔧 Basic Usage
 
 ```typescript

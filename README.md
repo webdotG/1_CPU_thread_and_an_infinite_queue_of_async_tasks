@@ -1,11 +1,10 @@
 # Task Queue Executor
 
-<!-- Language Selection -->
 <div align="center">
   
-**📖 Choose your language / Выберите язык:**
+**Choose your language / Выберите язык:**
 
-[🇺🇸 English](./README.en.md) | [🇷🇺 Русский](./README.ru.md)
+[English](./README.en.md) | [Русский](./README.ru.md)
 
 ---
 
@@ -17,7 +16,7 @@ Advanced async task queue with intelligent dependency resolution and concurrency
 
 **Продвинутая очередь задач с умным управлением зависимостями и параллелизмом.**
 
-## 🚀 Key Features
+## Key Features
 
 - **Concurrency Control** - Limit simultaneous tasks
 - **Dependency Resolution** - Serialize tasks by targetId
@@ -31,7 +30,7 @@ Advanced async task queue with intelligent dependency resolution and concurrency
 - **Потоковая обработка** - поддержка async итераторов
 - **Управление ресурсами** - предотвращение конфликтов
 
-## 🔧 Basic Usage
+## Basic Usage
 
 ```typescript
 import run from 'task-queue-executor'
@@ -52,16 +51,16 @@ async function* taskGenerator() {
 await run(executor, taskGenerator(), 3) // Max 3 parallel tasks
 ```
 
-## 📚 Full Documentation
+## Full Documentation
 
 For complete documentation, examples, and advanced use cases:
 
 **Для полной документации, примеров и продвинутых сценариев:**
 
-- [🇺🇸 **English Documentation**](./README.en.md) - Complete guide with advanced examples
-- [🇷🇺 **Русская документация**](./README.ru.md) - Полное руководство с примерами
+- [**English Documentation**](./README.en.md) - Complete guide with advanced examples
+- [**Русская документация**](./README.ru.md) - Полное руководство с примерами
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE) file
 
@@ -69,9 +68,9 @@ MIT License - see [LICENSE](./LICENSE) file
 
 <div align="center">
 
-**⭐ If you like this project, please give it a star!**  
-**⭐ Если проект понравился, поставьте звездочку!**
+**⭐**  
 
-Made with ❤️ by [Kirill Grant](https://t.me/KirillGrant)
+
+Made with by [Kirill Grant](https://t.me/KirillGrant)
 
 </div>
